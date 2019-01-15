@@ -30,7 +30,7 @@ Options
 -ex：需要过滤掉的基因列表
 ```
 ### 注意事项
-exclude列表格式如下：
+exclude列表格式如下（Tab键分割）：
 ```
 POTEF	Missense_Mutation	c.1930A>T	p.I644F	F180506117638-KY551-WES
 MED13	Splice_Region	c.1010-8G>T	.	F180506117641-KY551-WES
